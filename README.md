@@ -23,4 +23,4 @@
 
 <br>
 
-![Snake animation](https://github.com/cibersky-code/cibersky-code-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cibersky-code/cibersky-code/blob/output/github-contribution-grid-snake.svg)
