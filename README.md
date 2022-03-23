@@ -1,10 +1,6 @@
 ## Oi, eu sou o Bruno Teles! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**cibersky-code/cibersky-code** 
--->
-
 - 🔭 Atualmente estou trabalhando como vigilante patrimonial. 
 - 🌱 Atualmente estou aprendendo, a programar em java e faço faculdade de **Sistema de informação** estou no 7º semestre.
 - 👯 Estou procurando oportunidade em desenvolvimento de software. 
@@ -13,7 +9,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cibersky-code&layout=compact)](cibersky-code/cibersky-code) 
 
-  ### Contatos:
+ ### Contatos:
 
 <div>
 <a href = "mailto:brunoferreiratelessampaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
