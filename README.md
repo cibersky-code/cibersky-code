@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno Teles! 
+## Oi, eu sou o Bruno Teles! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 <!--
@@ -21,4 +21,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-155-721985.png" style="width:25px;height:25px;"> <strong>(61) 992167560</strong>
 </div>
 
-![Snake animation](https://github.com/cibersky-code/cibersky-code/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+![Snake animation](https://github.com/cibersky-code/cibersky-code-aqui/blob/output/github-contribution-grid-snake.svg)
