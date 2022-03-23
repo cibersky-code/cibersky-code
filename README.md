@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá, me chamo Bruno Teles! 
+### Bem vindo ao meu perfil GitHub 👋
 
 <!--
-**cibersky-code/cibersky-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**cibersky-code/cibersky-code** 
+<font color=\"red\">Texto com cor vermelha</font>
 -->
+
+- 🔭 Atualmente estou trabalhando como vigilante patrimonial. 
+- 🌱 Atualmente estou aprendendo, a programar em java e faço faculdade de **Sistema de informação** estou no 7º semestre.
+- 👯 Estou procurando oportunidade em desenvolvimento de software. 
+- 📫 Como entrar em contato comigo: 
+  
+  :email: brunoferreiratelessampaio@gmail.com
+  
+  :telephone_receiver: (61) 992167560
+  
+  Linkedin: [linkedin.com/in/brunotelessampaio/](https://www.linkedin.com/in/brunotelessampaio/)
+  
+  
