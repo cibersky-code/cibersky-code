@@ -5,9 +5,7 @@
 - 🌱 Atualmente estou aprendendo, a programar em java e faço faculdade de **Sistema de informação** estou no 7º semestre.
 - 👯 Estou procurando oportunidade em desenvolvimento de software. 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibersky-code&show_icons=true&theme=radical)  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cibersky-code&layout=compact)](cibersky-code/cibersky-code) 
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibersky-code&show_icons=true&theme=radical)                                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cibersky-code&layout=compact)](cibersky-code/cibersky-code) 
 
  ### Contatos:
 
