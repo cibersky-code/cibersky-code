@@ -14,9 +14,11 @@
 <div>
 <a href = "mailto:brunoferreiratelessampaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunotelessampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-155-721985.png" style="width:25px;height:25px;"> <strong>(61) 992167560</strong>
 </div>
 
+<br> 
+<img src="https://user-images.githubusercontent.com/71657248/161656944-82977b6c-99d6-4a02-9b05-d75b2f1d50d5.jpeg" style="width:250px;height:250px;>
 <br>
+
 
 ![Snake animation](https://github.com/cibersky-code/cibersky-code/blob/output/github-contribution-grid-snake.svg)
