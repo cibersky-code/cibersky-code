@@ -1,5 +1,7 @@
-# Oi, eu sou o Bruno Teles! 
-## Bem vindo ao meu perfil GitHub 👋
+<center>
+         # Oi, eu sou o Bruno Teles! 
+         ## Bem vindo ao meu perfil GitHub 👋
+
 
 
 - 🔭 Atualmente estou trabalhando como vigilante patrimonial. 
@@ -23,3 +25,4 @@
 
  <img src="https://user-images.githubusercontent.com/71657248/161656944-82977b6c-99d6-4a02-9b05-d75b2f1d50d5.jpeg" width="200" height="200" />
   
+</center>
