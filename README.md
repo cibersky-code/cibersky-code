@@ -5,7 +5,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como vigilante patrimonial. 
-- 🌱 Atualmente estou aprendendo, a programar em java e faço faculdade de **Sistema de informação** estou no 7º semestre.
+- 🌱 Atualmente estou aprendendo, a programar em java e conclui a faculdade de **Sistema de informação**.
 - 👯 Estou procurando oportunidade em desenvolvimento de software.
 - 🥇 Principal projeto [Pedal360](https://github.com/cibersky-code/Pedal360#readme)
 
