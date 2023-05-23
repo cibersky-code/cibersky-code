@@ -1,10 +1,23 @@
 <center>
-         # Oi, eu sou o Bruno Teles! 
-         ## Bem vindo ao meu perfil GitHub 👋
+         ### Bruno
+
+Bacharel em Sistemas de Informação
+
+**Bio do GitHub:**
+
+Olá! Sou Bruno, um entusiasta de tecnologia e desenvolvedor de software. Curioso, sempre em busca de aprendizado e novos desafios. Comunicativo e apaixonado por colaboração.
+
+- Bacharel em Sistemas de Informação
+- Curioso e ávido por aprender
+- Amante de desafios
+- Comunicativo e colaborativo
+
+No meu GitHub, você encontrará projetos que refletem minha paixão por diferentes áreas da programação. De aplicativos web a soluções de software, estou constantemente aprimorando minhas habilidades em várias linguagens e tecnologias.
+
+Vamos construir coisas incríveis juntos!
 
 
 
-- 🔭 Atualmente estou trabalhando como vigilante patrimonial. 
 - 🌱 Atualmente estou aprendendo, a programar em java e conclui a faculdade de **Sistema de informação**.
 - 👯 Estou procurando oportunidade em desenvolvimento de software.
 - 🥇 Principal projeto [Pedal360](https://github.com/cibersky-code/Pedal360#readme)
