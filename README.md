@@ -27,8 +27,6 @@ Bora se juntar e construir coisas incríveis juntos? 😎💻🚀
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cibersky-code&layout=compact)](cibersky-code/cibersky-code) 
 =======================================================================
-![Snake animation](https://github.com/cibersky-code/cibersky-code/blob/output/github-contribution-grid-snake.svg)
-=======================================================================
 
  ### Contatos:
 
